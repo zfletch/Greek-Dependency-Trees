@@ -1060,7 +1060,7 @@
       <word id="7" cid="44750377" form="προξένου" relation="PNOM_CO" lemma="πρόξενος"
             postag="n-s---mg-"
             head="6"/>
-      <word id="8" cid="44750378" form="Ἀθηναίων" relation="ATR" lemma="Ἀθήναιος"
+      <word id="8" cid="44750378" form="Ἀθηναίων" relation="ATR" lemma="Ἀθηναῖος"
             postag="n-p---mg-"
             head="7"/>
       <word id="9" cid="44750379" form="ἑστιῶντος" relation="ADV" lemma="ἑστιάω"
@@ -2183,7 +2183,7 @@
       <word id="16" cid="44750760" form="χρηστῶν" relation="ATR" lemma="χρηστός"
             postag="a-p---mg-"
             head="17"/>
-      <word id="17" cid="44750761" form="Ἀθηναίων" relation="ATR" lemma="Ἀθήναιος"
+      <word id="17" cid="44750761" form="Ἀθηναίων" relation="ATR" lemma="Ἀθηναῖος"
             postag="n-p---mg-"
             head="14"/>
       <word id="18" cid="44750762" form="." lemma="punc1" postag="u--------"

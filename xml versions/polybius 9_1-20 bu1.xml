@@ -3266,7 +3266,7 @@
       <word id="25" form="ἅμα" lemma="ἅμα" postag="d--------" relation="ADV" head="29"/>
       <word id="26" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="28"/>
       <word id="27" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="28"/>
-      <word id="28" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="SBJ"
+      <word id="28" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="SBJ"
             head="29"/>
       <word id="29" form="ἐπιφαίνεσθαι" lemma="ἐπιφαίνω" postag="v--pne---" relation="SBJ"
             head="24"/>
@@ -7727,7 +7727,7 @@
       <word id="3" form="Νικίας" lemma="Νικίας" postag="n-s---mn-" relation="SBJ" head="46"/>
       <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="5" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="6"/>
-      <word id="6" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ATR"
+      <word id="6" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="ATR"
             head="7"/>
       <word id="7" form="στρατηγός" lemma="στρατηγός" postag="n-s---mn-" relation="ATR"
             head="3"/>

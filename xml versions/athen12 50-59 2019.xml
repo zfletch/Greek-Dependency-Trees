@@ -826,7 +826,7 @@
       <word id="9" form="παρακαταθήκην" lemma="παρακαταθήκη" postag="n-s---fa-" relation="OBJ" head="10"/>
       <word id="10" form="λαβόντος" lemma="λαμβάνω" postag="v-sapamg-" relation="ATR" head="5"/>
       <word id="11" form="ᾔτησεν" lemma="αἰτέω" postag="v3saia---" relation="PRED" head="0"/>
-      <word id="12" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="OBJ" head="11"/>
+      <word id="12" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="OBJ" head="11"/>
       <word id="13" form="ποτὲ" lemma="ποτός" postag="d--------" relation="ADV" head="11"/>
       <word id="14" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="16"/>
       <word id="15" form="ἀκροπόλει" lemma="ἀκρόπολις" postag="n-s---fd-" relation="ATR" head="14"/>

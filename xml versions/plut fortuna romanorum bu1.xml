@@ -4830,7 +4830,7 @@
       <word id="27" form="ἐνάλιος" lemma="ἐνάλιος" postag="a-s---mn-" relation="ADV_CO" head="79"/>
       <word id="28" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="79"/>
       <word id="29" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="85"/>
-      <word id="30" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ATR" head="29"/>
+      <word id="30" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="ATR" head="29"/>
       <word id="31" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="32" form="οὐ" lemma="οὐδέ" postag="d-------_" relation="AuxZ" head="35"/>
       <word id="33" form="-δʼ" lemma="οὐδέ" postag="d-------_" relation="AuxY" head="41"/>

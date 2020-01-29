@@ -3006,7 +3006,7 @@
       <word id="79" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="83"/>
       <word id="80" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="82"/>
       <word id="81" form="ἄλλοις" lemma="ἄλλος" postag="a-p---md_" relation="ATR" head="82"/>
-      <word id="82" form="Ἀθηναίοις" lemma="Ἀθήναιος" postag="n-p---md-" relation="OBJ_CO" head="79"/>
+      <word id="82" form="Ἀθηναίοις" lemma="Ἀθηναῖος" postag="n-p---md-" relation="OBJ_CO" head="79"/>
       <word id="83" form="ἔχοντες" lemma="ἔχω" postag="v-pppamn-" relation="ADV" head="70"/>
       <word id="84" form="χάριν" lemma="χάρις" postag="n-s---fa-" relation="OBJ" head="83"/>
       <word id="85" form="δι᾽" lemma="διά" postag="r--------" relation="AuxP" head="83"/>

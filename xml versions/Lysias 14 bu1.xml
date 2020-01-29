@@ -1459,7 +1459,7 @@
       <word id="13" form="ποιεῖν" lemma="ποιέω" postag="v--pna---" relation="SBJ_CO"
             head="10"/>
       <word id="14" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="13"/>
-      <word id="15" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ATR"
+      <word id="15" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="ATR"
             head="18"/>
       <word id="16" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="18"/>
       <word id="17" form="μὴ" lemma="μή" postag="d-------_" relation="AuxZ" head="18"/>

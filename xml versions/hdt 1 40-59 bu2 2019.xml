@@ -2232,7 +2232,7 @@
       <word id="16" form="εὕρισκε" lemma="εὑρίσκω" postag="v2spma---" relation="PRED_CO" head="15"/>
       <word id="17" form="Λακεδαιμονίους" lemma="Λακεδαιμόνιος" postag="n-p---ma-" relation="SBJ_CO" head="18"/>
       <word id="18" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="20"/>
-      <word id="19" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="SBJ_CO" head="18"/>
+      <word id="19" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="SBJ_CO" head="18"/>
       <word id="20" form="προέχοντας" lemma="προέχω" postag="v-pppama-" relation="OBJ" head="16"/>
       <word id="21" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="PNOM_CO" head="27"/>
       <word id="22" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="27"/>

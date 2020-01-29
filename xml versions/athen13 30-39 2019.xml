@@ -2923,7 +2923,7 @@
       <word id="15" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="21"/>
       <word id="16" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ_CO" head="21"/>
       <word id="17" form="Κλεάνορος" lemma="Κλεάνωρ" postag="n-s---mg-" relation="ATR" head="14"/>
-      <word id="18" form="Ἀθηναίου" lemma="Ἀθήναιος" postag="a-s---mg-" relation="ATR" head="17"/>
+      <word id="18" form="Ἀθηναίου" lemma="Ἀθηναῖος" postag="a-s---mg-" relation="ATR" head="17"/>
       <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="20" form="κατασκευάσαι" lemma="κατασκευάζω" postag="v--ana---" relation="OBJ_CO" head="21"/>
       <word id="21" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="5"/>

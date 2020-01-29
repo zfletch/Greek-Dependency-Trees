@@ -875,7 +875,7 @@
       <word id="13" form="Κορινθίους" lemma="Κορίνθιος" postag="n-p---ma-" relation="OBJ_CO" head="12"/>
       <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="11"/>
       <word id="15" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="14"/>
-      <word id="16" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="OBJ_CO" head="15"/>
+      <word id="16" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="OBJ_CO" head="15"/>
       <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="18" form="ὅτε" lemma="ὅτε" postag="c--------" relation="AuxC" head="11"/>
       <word id="19" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" head="23"/>

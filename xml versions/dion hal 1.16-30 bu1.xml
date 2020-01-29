@@ -4792,7 +4792,7 @@
              span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="16"/>
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3"/>
-      <word id="3" form="Ἀθηναίοις" lemma="Ἀθήναιος" postag="n-p---md-" relation="OBJ" head="16"/>
+      <word id="3" form="Ἀθηναίοις" lemma="Ἀθηναῖος" postag="n-p---md-" relation="OBJ" head="16"/>
       <word id="4" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="5"/>
       <word id="5" form="τεῖχος" lemma="τεῖχος" postag="n-s---na-" relation="OBJ" head="16"/>
       <word id="6" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="5"/>

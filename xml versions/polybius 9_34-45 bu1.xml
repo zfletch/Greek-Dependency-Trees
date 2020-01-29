@@ -101,7 +101,7 @@
       <word id="60" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="61" form="ποτὲ" lemma="ποτέ" postag="d--------" relation="AuxZ" head="64"/>
       <word id="62" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="73"/>
-      <word id="63" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="OBJ_CO" head="64"/>
+      <word id="63" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="OBJ_CO" head="64"/>
       <word id="64" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="73"/>
       <word id="65" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="67"/>
       <word id="66" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="ATR" head="67"/>
@@ -1969,7 +1969,7 @@
       <word id="7" form="διαφυλάττειν" lemma="διαφυλάσσω" postag="v--pna---" relation="OBJ" head="6"/>
       <word id="8" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="11"/>
       <word id="9" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="10"/>
-      <word id="10" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ATR" head="11"/>
+      <word id="10" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="ATR" head="11"/>
       <word id="11" form="πόλις" lemma="πόλις" postag="n-s---fn-" relation="SBJ" head="6"/>
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>

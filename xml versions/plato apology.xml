@@ -9469,7 +9469,7 @@
       <word id="16" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="15"/>
       <word id="17" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="36"/>
       <word id="18" form="διαφέροντες" lemma="διαφέρω" postag="v-pppamn-" relation="ATR" head="36"/>
-      <word id="19" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="OBJ" head="18"/>
+      <word id="19" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="OBJ" head="18"/>
       <word id="20" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="18"/>
       <word id="21" form="ἀρετήν" lemma="ἀρετή" postag="n-s---fa-" relation="ADV" head="20"/>
       <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>

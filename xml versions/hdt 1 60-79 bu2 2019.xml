@@ -163,7 +163,7 @@
       <word id="47" form="γε" lemma="γε" postag="d--------" relation="AuxZ" head="57"/>
       <word id="48" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="57"/>
       <word id="49" form="ἐν" lemma="εἰς" postag="r--------" relation="AuxP" head="57"/>
-      <word id="50" form="Ἀθηναίοισι" lemma="Ἀθήναιος" postag="n-p---md-" relation="ADV" head="49"/>
+      <word id="50" form="Ἀθηναίοισι" lemma="Ἀθηναῖος" postag="n-p---md-" relation="ADV" head="49"/>
       <word id="51" form="τοῖσι" lemma="ὁ" postag="l-p---md-" relation="ATR" head="50"/>
       <word id="52" form="πρώτοισι" lemma="πρότερος" postag="a-p---md-" relation="PNOM" head="54"/>
       <word id="53" form="λεγομένοισι" lemma="λέγω3" postag="v-pppemd-" relation="ATR" head="50"/>

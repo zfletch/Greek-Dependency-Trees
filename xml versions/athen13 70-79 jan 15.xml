@@ -6041,7 +6041,7 @@
       <word id="3" cid="44749474" form="πρὸς" relation="AuxP" lemma="πρός"
             postag="r--------"
             head="6"/>
-      <word id="4" cid="44749475" form="Ἀθηναίους" relation="ATR" lemma="Ἀθήναιος"
+      <word id="4" cid="44749475" form="Ἀθηναίους" relation="ATR" lemma="Ἀθηναῖος"
             postag="n-p---ma-"
             head="3"/>
       <word id="5" cid="44749476" form="δ᾽" relation="AuxY" lemma="δέ" postag="d--------"
@@ -6736,7 +6736,7 @@
             head="6"/>
       <word id="8" cid="44749715" form="τῷ" relation="ATR" lemma="ὁ" postag="l-s---md-"
             head="7"/>
-      <word id="9" cid="44749716" form="Ἀθηναίῳ" relation="ATR" lemma="Ἀθήναιος"
+      <word id="9" cid="44749716" form="Ἀθηναίῳ" relation="ATR" lemma="Ἀθηναῖος"
             postag="n-s---md-"
             head="7"/>
       <word id="10" cid="44749717" form="γενόμενα" relation="SBJ" lemma="γίγνομαι"

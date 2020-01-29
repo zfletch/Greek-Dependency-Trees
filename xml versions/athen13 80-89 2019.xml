@@ -477,7 +477,7 @@
       <word id="5" cid="44750375" form="ἐόντος" relation="ATR" lemma="εἰμί" postag="v-sppamg-" head="1"/>
       <word id="6" cid="44750376" form="καὶ" relation="COORD" lemma="καί" postag="c--------" head="5"/>
       <word id="7" cid="44750377" form="προξένου" relation="PNOM_CO" lemma="πρόξενος" postag="n-s---mg-" head="6"/>
-      <word id="8" cid="44750378" form="Ἀθηναίων" relation="ATR" lemma="Ἀθήναιος" postag="n-p---mg-" head="7"/>
+      <word id="8" cid="44750378" form="Ἀθηναίων" relation="ATR" lemma="Ἀθηναῖος" postag="n-p---mg-" head="7"/>
       <word id="9" cid="44750379" form="ἑστιῶντος" relation="ADV" lemma="ἑστιάω" postag="v-sppamg-" head="34"/>
       <word id="10" cid="44750380" form="αὐτόν" relation="OBJ" lemma="αὐτός" postag="p-s---ma-" head="9"/>
       <word id="11" cid="44750381" form="," lemma="punc1" postag="u--------" relation="AuxX" head="12"/>
@@ -997,7 +997,7 @@
       <word id="14" cid="44750758" form="εἷς" relation="PNOM" lemma="εἷς" postag="n-s---mn-" head="19"/>
       <word id="15" cid="44750759" form="τῶν" relation="ATR" lemma="ὁ" postag="l-p---mg-" head="17"/>
       <word id="16" cid="44750760" form="χρηστῶν" relation="ATR" lemma="χρηστός" postag="a-p---mg-" head="17"/>
-      <word id="17" cid="44750761" form="Ἀθηναίων" relation="ATR" lemma="Ἀθήναιος" postag="n-p---mg-" head="14"/>
+      <word id="17" cid="44750761" form="Ἀθηναίων" relation="ATR" lemma="Ἀθηναῖος" postag="n-p---mg-" head="14"/>
       <word id="18" cid="44750762" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="19" insertion_id="0018e" artificial="elliptic" relation="PNOM_CO" form="[0]" head="11"/>
    </sentence>

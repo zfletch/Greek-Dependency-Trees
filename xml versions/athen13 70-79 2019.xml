@@ -2623,7 +2623,7 @@
       <word id="1" cid="44749472" form="καὶ" relation="AuxZ" lemma="καί" postag="d--------" head="6"/>
       <word id="2" cid="44749473" form="τὴν" relation="ATR" lemma="ὁ" postag="l-s---fa-" head="6"/>
       <word id="3" cid="44749474" form="πρὸς" relation="AuxP" lemma="πρός" postag="r--------" head="6"/>
-      <word id="4" cid="44749475" form="Ἀθηναίους" relation="ATR" lemma="Ἀθήναιος" postag="n-p---ma-" head="3"/>
+      <word id="4" cid="44749475" form="Ἀθηναίους" relation="ATR" lemma="Ἀθηναῖος" postag="n-p---ma-" head="3"/>
       <word id="5" cid="44749476" form="δ᾽" relation="AuxY" lemma="δέ" postag="d--------" head="18"/>
       <word id="6" cid="44749477" form="ἔχθραν" relation="OBJ" lemma="ἔχθρη" postag="n-s---fa-" head="7"/>
       <word id="7" cid="44749478" form="διελύσατο" relation="PRED_CO" lemma="διαλύω" postag="v3saim---" head="18"/>
@@ -2915,7 +2915,7 @@
       <word id="6" cid="44749713" form="ἐπὶ" relation="AuxP" lemma="ἐπί" postag="r--------" head="10"/>
       <word id="7" cid="44749714" form="Κρατίνῳ" relation="ADV" lemma="Κρατῖνος" postag="n-s---md-" head="6"/>
       <word id="8" cid="44749715" form="τῷ" relation="ATR" lemma="ὁ" postag="l-s---md-" head="7"/>
-      <word id="9" cid="44749716" form="Ἀθηναίῳ" relation="ATR" lemma="Ἀθήναιος" postag="n-s---md-" head="7"/>
+      <word id="9" cid="44749716" form="Ἀθηναίῳ" relation="ATR" lemma="Ἀθηναῖος" postag="n-s---md-" head="7"/>
       <word id="10" cid="44749717" form="γενόμενα" relation="SBJ" lemma="γίγνομαι" postag="v-papmnn-" head="3"/>
       <word id="11" cid="44749718" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>

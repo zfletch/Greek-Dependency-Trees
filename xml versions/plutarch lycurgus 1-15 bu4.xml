@@ -4297,7 +4297,7 @@
       <word id="9" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="10"/>
       <word id="10" form="στρατείας" lemma="στρατεία" postag="n-s---fg-" relation="ADV" head="8"/>
       <word id="11" form="καταπεπολεμηκὼς" lemma="καταπολεμέω" postag="v-srpamn-" relation="ADV" head="7"/>
-      <word id="12" form="Ἀθηναίους" lemma="Ἀθήναιος" postag="n-p---ma-" relation="OBJ" head="11"/>
+      <word id="12" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="n-p---ma-" relation="OBJ" head="11"/>
       <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="6"/>
       <word id="14" form="βουλομένου" lemma="βούλομαι" postag="v-sppemg-" relation="ADV_CO" head="19"/>
       <word id="15" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="18"/>

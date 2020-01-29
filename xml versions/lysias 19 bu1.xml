@@ -3395,7 +3395,7 @@
       <word id="5" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="OBJ" head="1"/>
       <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="7" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="5"/>
-      <word id="8" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="SBJ" head="10"/>
+      <word id="8" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="SBJ" head="10"/>
       <word id="9" form="ἁπάντων" lemma="ἅπας" postag="a-p---mg-" relation="ATR" head="8"/>
       <word id="10" form="ἀκηκοότων" lemma="ἀκούω" postag="v-prpamg-" relation="ADV" head="18"/>
       <word id="11" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="10"/>

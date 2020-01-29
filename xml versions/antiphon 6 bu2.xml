@@ -1295,7 +1295,7 @@
       <word id="26" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="23"/>
       <word id="27" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="29"/>
       <word id="28" form="ἄλλοις" lemma="ἄλλος" postag="a-p---md_" relation="ATR" head="29"/>
-      <word id="29" form="Ἀθηναίοις" lemma="Ἀθήναιος" postag="n-p---md-" relation="OBJ_CO" head="26"/>
+      <word id="29" form="Ἀθηναίοις" lemma="Ἀθηναῖος" postag="n-p---md-" relation="OBJ_CO" head="26"/>
       <word id="30" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="43"

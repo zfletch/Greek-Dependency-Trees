@@ -645,7 +645,7 @@
       <word id="1" form="τίς" lemma="τις" postag="p-s---mn-" relation="SBJ" head="6"/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" form="ὑπὲρ" lemma="ὑπέρ" postag="r--------" relation="AuxP" head="6"/>
-      <word id="4" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ADV" head="3"/>
+      <word id="4" form="Ἀθηναίων" lemma="Ἀθηναῖος" postag="n-p---mg-" relation="ADV" head="3"/>
       <word id="5" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
       <word id="6" form="ἱστόρηκε" lemma="ἱστορέω" postag="v3sria---" relation="PRED" head="0"/>
       <word id="7" form="διότι" lemma="διότι" postag="c--------" relation="AuxC" head="6"/>
